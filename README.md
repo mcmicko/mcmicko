@@ -1,7 +1,5 @@
 <img alt="cover image" src="cover github.jpg" />
 
-<h1 align=center>Hi, and welcome to my profile!</h1>
-
 <p align=center>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
@@ -14,33 +12,33 @@
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </p>
 
-<h2 align=center margin=0>Hi there and welcome to my GitHub page 👋</h2> 
-<h2 align=center>My name is <b>Milos Mandic</b> and I am a software developer from Zrenjanin, Serbia</h2>
+<h2 align=center>Hi there and welcome to my GitHub page 👋</h2> 
+<p align=center>My name is <b>Milos Mandic</b> and I am a software developer from Zrenjanin, Serbia</p>
 
-<h2 align=center>if for some reason you want to see what skills I possess, you can see below.</h2> 
+<p align=center>if for some reason you want to see what skills I possess, you can see below.</p> 
 
 ## JavaScript / TypeScript
-### Frontend Framework
-#### React 17 (Gatsby, NextJS), Angular 9
+ Frontend Framework
+ React 17 (Gatsby, NextJS), Angular 9
 
 ### NodeJS
-#### NestJS, Express
+ NestJS, Express
 
 ## C#
-### C# 7.3/8.0, .NET Framework 4.8, .NET Core 2.2/3.0
+ C# 7.3/8.0, .NET Framework 4.8, .NET Core 2.2/3.0
 
 ## DataBase
-### SQL: MySql, Postgres, MicrosoftSQL Server
-### NoSQL: MongoDB
-### Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose
+ SQL: MySql, Postgres, MS SQL Server
+ NoSQL: MongoDB
+ Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose
 
 ## GraphQL
-### Apollo, URQL, TypeGraphQL
+ Apollo, URQL, TypeGraphQL
 
 ## Version Control: Git
 
 ## Software and tools
-Visual Studio 2017, 2019, MS SQL Server, Visual Studio Code, Fiddler, Postman, Microsoft Office 365, Windows OS(XP, 7, 8.1, 10) Linux(Ubuntu, Mint)
+Visual Studio 2017, 2019, Visual Studio Code, Postman, Microsoft Office 365, Windows OS(XP, 7, 8.1, 10) Linux(Ubuntu 20.4, Mint 19.3)
 
 
 
