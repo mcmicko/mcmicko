@@ -28,9 +28,9 @@
  C# 7.3/8.0, .NET Framework 4.8, .NET Core 2.2/3.0
 
 ## DataBase
- SQL: MySql, Postgres, MS SQL Server
- NoSQL: MongoDB
- Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose
+ <p>SQL: MySql, Postgres, MS SQL Server</p>
+ <p>NoSQL: MongoDB</p>
+ <p>Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose</p>
 
 ## GraphQL
  Apollo, URQL, TypeGraphQL
