@@ -43,12 +43,10 @@ Visual Studio 2017, 2019, Visual Studio Code, Postman, Microsoft Office 365, Win
 
 
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mcmicko" />
+<div align="center" display="flex" justifyContent="space-between">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mcmicko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmicko"
-/>
-</p>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmicko&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 
