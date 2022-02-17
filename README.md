@@ -17,28 +17,29 @@
 
 <p align=center>if for some reason you want to see what skills I possess, you can see below.</p> 
 
-## JavaScript / TypeScript
- Frontend Framework
- React 17 (Gatsby, NextJS), Angular 9
+<h2 align=center>JavaScript / TypeScript </h2>
+<p align=center>Frontend Framework</p>
+<p align=center>React 17 (Gatsby, NextJS), Angular 9</p>
 
-### NodeJS
- NestJS, Express
+<h2 align=center>NodeJS</h2>
+<p align=center> NestJS, Express</p>
 
-## C#
- C# 7.3/8.0, .NET Framework 4.8, .NET Core 2.2/3.0
+<h2 align=center>C#</h2>
+ <p align=center>C# 7.3/8.0, .NET Framework 4.8, .NET Core 2.2/3.0</p>
 
-## DataBase
- <p>SQL: MySql, Postgres, MS SQL Server</p>
- <p>NoSQL: MongoDB</p>
- <p>Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose</p>
+ <h2 align=center>DataBase</h2>
+ <p align=center>SQL: MySql, Postgres, MS SQL Server</p>
+ <p align=center>NoSQL: MongoDB</p>
+ <p align=center>Data access: MikroORM, TypeORM, Entity Framework, Entity Framework Core, Mongoose</p>
 
-## GraphQL
- Apollo, URQL, TypeGraphQL
+<h2 align=center>GraphQL</h2>
+ <p align=center>Apollo, URQL, TypeGraphQL</p>
 
-## Version Control: Git
-
-## Software and tools
-Visual Studio 2017, 2019, Visual Studio Code, Postman, Microsoft Office 365, Windows OS(XP, 7, 8.1, 10) Linux(Ubuntu 20.4, Mint 19.3)
+<h2 align=center>Version Control</h2>
+ <p align=center>Git</p>
+ 
+<h2 align=center>Software and tools</h2>
+<p align=center>Visual Studio 2017, 2019, Visual Studio Code, Postman, Microsoft Office 365, Windows OS(XP, 7, 8.1, 10) Linux(Ubuntu 20.4, Mint 19.3)</p>
 
 
 
